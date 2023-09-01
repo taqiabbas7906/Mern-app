@@ -1,0 +1,3 @@
+.navlink {
+  @apply p-[10px] m-[10px] text-neutral-100 text-200;
+}
